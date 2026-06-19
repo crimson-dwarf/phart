@@ -1,0 +1,14 @@
+# Things this project will never need
+vendor/
+node_modules/
+composer.json
+composer.lock
+
+# Things this project must never become
+src/
+ServiceProvider.php
+config/phart.php
+tests/
+
+# Aspirational
+Packagist/
